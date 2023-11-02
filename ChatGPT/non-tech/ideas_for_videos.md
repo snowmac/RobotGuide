@@ -21,6 +21,7 @@
 14. ChatGPT: Compare and contrast Model 4 and 3.5
 15. ChatGPT: How to process and handle images
     - https://help.openai.com/en/articles/8400551-image-inputs-for-chatgpt-faq
+16. How to use Bing with ChatGPT: https://help.openai.com/en/articles/8077698-how-do-i-use-chatgpt-browse-with-bing-to-search-the-web 
 
 # Intermediate / Borderline technical videos
 16. APIs, how to use the ChatGPT API
@@ -31,7 +32,8 @@
     - https://openai.com/research/instruction-following 
 20. Introduction to Pinecone DB, why you should know about it even if you're not a developer
 21. How to use Pinecone DB to store and retrieve data
-22. 
+22. Introduction to other ChatGPT tools: Whisper, Instruction Following, Different Models
+23. Introduction to Chat GPT Playground: Exploring Top P and tempature etc... 
   
 # Technical videos
 24. Getting started with the API
@@ -39,11 +41,11 @@
 26. Introduction to structuring your prompts for better data 
 27. Intro to Langchan, JSON, structures etc..  
 28. How to use Langchan ensure consistent data responses, and how to use it to force consistent json responses
-29. 
-30. 
-31. 
-32.
-33. 
+29. Introduction to LangSmith - https://www.langchain.com/langsmith 
+30. Langchain: Expression language: [https://python.langchain.com/docs/expression_language/ ](https://js.langchain.com/docs/expression_language/interface)
+31. Exploring use cases: https://js.langchain.com/docs/use_cases 
+32. Using Langchain to chain AI calls together to build a smarter application 
+33. Build a feature: Chat with my application relying on structured and unstructured data: https://js.langchain.com/docs/use_cases/question_answering/ 
 34. Intro to Github Copilot
 35. Advanced Github Copilot, how to use it to generate code and advanced tips and tricks
 
